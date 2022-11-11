@@ -7,7 +7,7 @@ My name is Donyor Ismatilloev, I am currently sudying BS Computer Science at the
 
 
 <div id="badges">
-  ###Connect with me on 
+  <h1>Connect with me on</h1> 
   <a href="https://www.linkedin.com/in/doniyor2024/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
