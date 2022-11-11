@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Personal Website
-- 🌱 I’m currently learning React and Typescript 
-- 💬 Ask me about Comptor Science Major at the University At Buffalo
-- 📫 How to reach me: Doniyori@buffalo.edu
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **DoniyorI/DoniyorI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
