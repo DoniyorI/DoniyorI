@@ -1,4 +1,4 @@
-<h1>Welcome to my Github 👋 </h1>
+<h3>Welcome to my Github 👋 </h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
@@ -14,7 +14,7 @@ My name is Donyor Ismatilloev, I am currently sudying BS Computer Science at the
 
  
 
-<h3>Connect with me on: </h3>
+<h4>Connect with me on: </h4>
 <div id="badges">
   <a href="https://www.linkedin.com/in/doniyor2024/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
