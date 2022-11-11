@@ -1,9 +1,13 @@
-### Hi there 👋
+### Welcome to my Github 👋 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
+My name is Donyor Ismatilloev, I am currently sudying BS Computer Science at the University at Buffalo 📚.
+
+
 <div id="badges">
+  ###Connect with me on 
   <a href="https://www.linkedin.com/in/doniyor2024/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
