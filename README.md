@@ -39,6 +39,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/>&nbsp;
+  <img src="https://i.stack.imgur.com/AarYf.png" title="Latex" alt="Latex" height="25"/>&nbsp;
 </div>
 <!--
 **DoniyorI/DoniyorI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
