@@ -12,9 +12,10 @@ My name is Donyor Ismatilloev, I am currently sudying BS Computer Science at the
 
 - :zap: In my free time, I solve problems on Leetcode proeblem and read tech articles.
 
- 
 
-<h4>Connect with me on: </h4>
+ <h4>Check out my  <a href="https://doniyori.github.io/portfolio/"> 
+ Website</a> and Connect with me on:
+ </h4>
 <div id="badges">
   <a href="https://www.linkedin.com/in/doniyor2024/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
